@@ -13,7 +13,6 @@ filename: index
     <h1 id="time-left"></h1>
             <script src="app.js"></script>
             
-   </p>
   <img src="image.png"/>	
   <p>         
  
