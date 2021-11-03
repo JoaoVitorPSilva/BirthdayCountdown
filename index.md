@@ -19,8 +19,7 @@ filename: index
 
   <p>         
  
-<b style="font-weight: bold;">O melhor irmão do mundo!<br></b>
-</p>          
+<b style="font-weight: bold;">O melhor irmão do mundo!<br></b>         
 
             
   </body>
