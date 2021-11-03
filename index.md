@@ -1,7 +1,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <title>Birthday Countdown</title>
+    <title>Contador do aniversário do Paulo!</title>
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
