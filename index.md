@@ -11,7 +11,9 @@ filename: index
   </head>
   <body>
     <h1 id="time-left"></h1>
-
+      <p>
+  <b style="font-weight: bold;">O melhor programador do mundo!<br></b>
+  </p> 
             <script src="app.js"></script>
             
             
