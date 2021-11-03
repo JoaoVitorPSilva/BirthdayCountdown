@@ -30,7 +30,7 @@ function cronometro(){
     const minutes = Math.floor((timeSpan % hour) / minute)
     const seconds = Math.floor((timeSpan % minute) / second)
 
-    timeLeft.innerHTML = days + ' dias' + hours + ' horas' + minutes + ' minutos' + seconds + ' segundos'
+    timeLeft.innerHTML = days + ' dias ' + hours + ' horas ' + minutes + ' minutos ' + seconds + ' segundos '
 }
 
 timerId = setInterval(cronometro, second)
