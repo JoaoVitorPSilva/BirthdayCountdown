@@ -18,8 +18,7 @@ filename: index
   <img src="image.png"/>	
 
   <p>         
-  
-<p>
+ 
 <b style="font-weight: bold;">O melhor irmão do mundo!<br></b>
 </p>          
 
