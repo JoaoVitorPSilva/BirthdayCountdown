@@ -15,7 +15,7 @@ filename: index
             
    </p>
 	
-  <img src="images/image.png"/>	
+  <img src="image.png"/>	
 
   <p>         
   
@@ -25,5 +25,5 @@ filename: index
 
             
   </body>
-    ![image](https://user-images.githubusercontent.com/65428645/140020297-764c354c-463e-4141-adae-ed5b0ecd3528.png)
+
 </html>
