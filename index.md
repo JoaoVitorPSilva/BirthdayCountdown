@@ -8,7 +8,9 @@
     <h1 id="time-left"></h1>
 
             <script src="app.js"></script>
-            ![image](https://user-images.githubusercontent.com/65428645/140020122-01b10f57-8c53-4867-87a1-9f95cd598d22.png)
+            
+            ![image](https://user-images.githubusercontent.com/65428645/140020297-764c354c-463e-4141-adae-ed5b0ecd3528.png)
+
 
             
   </body>
